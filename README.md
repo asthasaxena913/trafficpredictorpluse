@@ -47,4 +47,4 @@ git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/Traffic-Predictor-Plus.git
 git push -u origin main
 ```
-Replace `YOUR_USERNAME` with your account. Do not commit passwords or tokens.
+
