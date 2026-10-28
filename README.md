@@ -2,7 +2,7 @@
 
 An Arduino-powered **physical traffic congestion demonstration** with a Flask web dashboard, RoadWatch pothole/closure reports, simulated peak-hour risk, alternative-route recommendation, and ambulance priority.
 
-Based on the team's project presentation for Shri Krishna University, Chhatarpur. **This is a rule-based educational prototype with simulated data, not a trained AI model or live traffic navigation service.** No verified time-saving claims are made.
+Based on the team's project presentation for Shri Krishna University, Chhatarpur. This is a rule-based educational prototype with simulated data. No verified time-saving claims are made.
 
 ## Contents
 - `arduino/TrafficPredictorPlus/TrafficPredictorPlus.ino` — Arduino Uno firmware
